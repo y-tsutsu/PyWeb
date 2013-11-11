@@ -22,7 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="cgi-bin\cgi_test.py" />
+    <Compile Include="cgi-bin\querytest.py" />
+    <Compile Include="cgi-bin\test.py" />
+    <Compile Include="cgi-bin\find13friday.py" />
     <Compile Include="cgi_http_server.py" />
     <Compile Include="simple_http_server.py" />
   </ItemGroup>
