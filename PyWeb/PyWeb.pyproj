@@ -22,6 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="cgi-bin\find13fridayform.py" />
     <Compile Include="cgi-bin\querytest.py" />
     <Compile Include="cgi-bin\test.py" />
     <Compile Include="cgi-bin\find13friday.py" />
@@ -30,6 +31,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="cgi-bin\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="find13friday.html" />
+    <Content Include="index.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
 </Project>
