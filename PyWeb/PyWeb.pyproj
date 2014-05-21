@@ -28,6 +28,7 @@
     <Compile Include="cgi-bin\environ.py" />
     <Compile Include="cgi-bin\find13friday.py" />
     <Compile Include="cgi-bin\find13fridayform.py" />
+    <Compile Include="cgi-bin\httphandler.py" />
     <Compile Include="cgi-bin\querytest.py" />
     <Compile Include="cgi-bin\querytest2.py" />
     <Compile Include="cgi-bin\test.py" />
