@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>efca1bdb-fa6a-4ae6-b154-8942a11e8747</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>cgi-bin\rssparser.py</StartupFile>
+    <StartupFile>cgi_http_server.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -29,6 +29,7 @@
     <Compile Include="cgi-bin\find13friday.py" />
     <Compile Include="cgi-bin\find13fridayform.py" />
     <Compile Include="cgi-bin\httphandler.py" />
+    <Compile Include="cgi-bin\picklepole.py" />
     <Compile Include="cgi-bin\querytest.py" />
     <Compile Include="cgi-bin\querytest2.py" />
     <Compile Include="cgi-bin\rssparser.py" />
