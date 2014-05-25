@@ -25,6 +25,7 @@
     <Folder Include="cgi-bin\" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="cgi-bin\dbpole.py" />
     <Compile Include="cgi-bin\environ.py" />
     <Compile Include="cgi-bin\find13friday.py" />
     <Compile Include="cgi-bin\find13fridayform.py" />
