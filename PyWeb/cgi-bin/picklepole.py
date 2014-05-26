@@ -1,4 +1,4 @@
-# coding: utf-8
+﻿# coding: utf-8
 
 import pickle, os
 from httphandler import Request, Response, get_htmltemplate

@@ -1,4 +1,4 @@
-# coding: utf-8
+﻿# coding: utf-8
 
 from rssparser import parse_rss
 from httphandler import Request, Response, get_htmltemplate

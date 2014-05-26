@@ -1,4 +1,4 @@
-# coding: utf-8
+﻿# coding: utf-8
 
 from xml.etree.ElementTree import ElementTree
 from urllib.request import urlopen
